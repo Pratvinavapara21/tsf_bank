@@ -56,7 +56,7 @@ text-align:left;
 #main
 {
 	text-align: center;
-background-color:#cf80e7;
+background-color:#e98c12;
 color:rgb(77, 14, 85);
 padding-top:5%;	
 }
@@ -130,7 +130,7 @@ padding-top:5%;
 /* footer */
 #footer{
 	background-color:#ff8000;
-    color:rgb(22, 238, 50);
+    color:rgb(10, 14, 10);
     padding: 4% 25%;
     text-align: center;
 }
