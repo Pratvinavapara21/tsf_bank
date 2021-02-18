@@ -47,7 +47,7 @@ text-align:left;
 #main
 {
 	text-align: center;
-background-color:#618821;
+background-color:#78c063;
 }
 .my-info{
     padding: 2rem 5rem;
@@ -55,7 +55,7 @@ background-color:#618821;
 
 .btn-info{
     padding: 1rem 1.2rem;
-    background-color: rgb(31, 172, 172)!important;
+    background-color: rgb(192, 33, 86)!important;
     color: #fff!important;
     margin-left: 5px;
     padding: 0.75rem;
@@ -63,5 +63,5 @@ background-color:#618821;
 }
 
 .btn-info:hover{
-    background-color: #93cc0d!important;
+    background-color: #f3aef0!important;
 }
